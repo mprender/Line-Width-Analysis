@@ -36,12 +36,11 @@ dependencies:
     - mpl4qt
     - mpl-tools
     - PyQt5
-    - py-dateutil
+    - py-dateutil>=2.7
     - runtime
     - cv_utils
     - cv2studio
     - smop
     - syspath
-    - python-dateutil
 
 
